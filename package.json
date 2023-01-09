@@ -47,7 +47,7 @@
     "plugin": "^0.3.3",
     "prettier": "^2.3.2",
     "serverless": "^2.57.0",
-    "serverless-offline": "^8.1.0",
+    "serverless-offline": "^8.8.1",
     "serverless-plugin-optimize": "^4.2.1-rc.1",
     "serverless-plugin-typescript": "^2.0.0",
     "supertest": "^6.1.3",
